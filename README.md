@@ -16,7 +16,7 @@ Loved to work with *Node.js* and creating and mantaining some *api's*, loved to 
   - More about Node.js and back-end technologies;
   - Kubernetes;
 
-## 🔭 📜 Have some skills with
+## 📜 Have some skills with
  - Node.js | JS | Back-end developing - Year and half work experience;
  - MongoDB - Year and half work experience;
  - RESTFull API's - Year and half work experience;
