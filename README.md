@@ -24,7 +24,7 @@ Loved to work with *Node.js* and creating and mantaining some *api's*, loved to 
  - Angular - online course only;
  - Java - technical and online course only;
  - MySQL | PostgreeSQl - university and online course only;
- - and many others, ask me about it!
+ - and some soft skills, ask me about it!
 
 ## 👯Job experiences with
   - Automated testing;
